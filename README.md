@@ -1,8 +1,10 @@
-# Frontend Masters iOS App Public Issues Repository
+# [Frontend Masters iOS App 📲](https://itunes.apple.com/us/app/frontend-masters/id1383780486?ls=1&mt=8) Public Issues Repository
 
-- Save videos to your device! Watch on-the-go, on or offline 📲 🚂 ✈️ (on the plane, or a train, or in space)
+- Save videos to your iPhone or iPad! Watch on-the-go, on or offline 📲 🚂 ✈️ (on the plane, or a train, or in space)
 - Access to our entire course catalog and new courses as they’re released.
 - Never lose where you’ve left off — progress syncs online and offline!
+
+[![Get it on the Apple App Store](https://developer.apple.com/app-store/marketing/guidelines/images/badge-example-preferred.png)](https://itunes.apple.com/us/app/frontend-masters/id1383780486?ls=1&mt=8)
 
 # iOS Issue Reporting Guidelines
 
